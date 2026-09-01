@@ -1,8 +1,9 @@
 h1{
-    color: aqua;
-    font-size: 80px;
-    background-color: blueviolet;
-    text-align: center;
-    padding: 20px;
-    margin: 10px;
+    color:darkgreen;
+    font-size: 100px;
+    background-color: red;
+    text-aligin: center;
+    paddind: 10px;
+    margin: 20px;
+    border: 10px black solid;
 }
